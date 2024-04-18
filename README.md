@@ -1,2 +1,2 @@
-# Shopper-App
+# Shopper
 This my Shopping - Project 
